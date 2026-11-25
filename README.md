@@ -60,17 +60,10 @@ A multi-surface learning platform (web, mobile, backend and a voice service) tha
 - Collaborative two-person study rooms built on Socket.io and WebRTC.
 - Adaptive learning loop and an offline-first mobile app with a local SQLite cache.
 
-### [Sonu Singh Portfolio](https://github.com/Jaydeepshah84/sonuportfolio): animated portfolio site · [live](https://sonuportfolio-mu.vercel.app)
-
-`React` · `Vite` · `Framer Motion` · `GSAP` · `Lenis`
-
-A responsive single-page portfolio for a UI/UX designer, with scroll-triggered animation and smooth scrolling, deployed on Vercel.
-
 ## Education
 
 - **B.Tech, Cyber Security**: Uttarakhand Technical University, Faculty of Technology, Dehradun (third year)
 - **Diploma in Engineering**: Government Polytechnic Pithuwala, Dehradun (2025, Grade A)
-- **Schooling**: Government Inter College, Srinagar, Garhwal
 
 ## Interests
 
@@ -82,7 +75,7 @@ Visited the Google office in Gurugram and took part in an AWS event at Graphic E
 
 ## Languages
 
-Hindi · English
+English · Hindi
 
 ## Let's connect
 
